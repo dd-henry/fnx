@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+body{
+	background: rgb(82,95,113);
+background: linear-gradient(280deg, rgba(82,95,113,1) 0%, rgba(31,38,48,1) 100%);
+	font-family:'Gadugi';
+	font-weight:'Bold';
+}
+
+#conteudo{
+	
+	margin:0 auto;
+	width:702px;
+	
+}
+#foto{
+	width:200px;
+	height:198px;
+		
+	position:absolut;
+	float:left;
+	background-color:#000;	
+	background-image:url('https://img-cdn.hltv.org/playerbodyshot/BHpm88VLDHc3tC4XCaba99.png?ixlib=java-2.1.0&w=400&s=2f8dff61a7520361c9fa9d2154bd4427');
+	background-size:200px 200px;
+	border-left:solid 2px #0dd767;
+	border-top:solid 2px #0dd767;
+	
+	
+	
+}
+#nome{
+	position:relative;
+	float:right;
+	width:500px;
+	height:140px;
+	background: rgb(13,215,103);
+background: linear-gradient(130deg, rgba(13,215,103,1) 0%, rgba(4,74,35,1) 69%);
+	font-family:'Impact';
+	color:#fff;
+	text-shadow: 0 0 13px black;
+	padding-top:60px;
+	}
+
+#infos{
+	position:relative;
+	float:left;
+	width:186px;
+	height:900px;
+	background-color:#0dd767;
+	border-top:solid 2px;
+	border-right:solid 2px ;
+	font-family: 'Koulen';
+	padding-left:7px;
+	padding-right:7px;
+	
+	
+}
+#quali{
+text-align:justify;
+
+}
+
+#mais{
+
+position:relative;
+float:right;
+width:493px;
+height:900px;
+border-top:solid 1px;
+font-family:'Koulen';
+color:#fff;
+text-shadow: 0 0 5px black;
+	font-weight:'Bold';
+	padding-left:7px;
+	background-image:url('469ceb139167387.622aa81204c75.png');
+	background-size:100%;
+	background-attachment:fixed;
+	background-position:400px 70px;
+	background-repeat:no-repeat;
+	
+	
+}
+
