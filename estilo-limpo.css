@@ -72,11 +72,15 @@ color:#fff;
 text-shadow: 0 0 5px black;
 	font-weight:'Bold';
 	padding-left:7px;
-	background-image:url('469ceb139167387.622aa81204c75.png');
-	background-size:100%;
-	background-attachment:fixed;
-	background-position:400px 70px;
+	background-color:#152738;
+	background-image:url('https://img-cdn.hltv.org/teamlogo/WF5P55R5fxcmhoew6vHZQr.png?ixlib=java-2.1.0&w=100&s=69a1bfb54d6350db4a0b18ff87a96dcc');
 	background-repeat:no-repeat;
+	background-size:150px;
+	background-position:right;
+	
+	
+	
+	
 	
 	
 }
